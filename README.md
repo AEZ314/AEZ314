@@ -1,16 +1,19 @@
-## Hi there 👋
+# Efe Zaladin
 
-<!--
-**AEZ314/AEZ314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO at ZaloSoft™.
 
-Here are some ideas to get you started:
+Building developer infrastructure and software products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current work
+
+- Building ZaloKit
+- Working with SvelteKit, TypeScript and Cloudflare
+- Designing reusable infrastructure for ZaloSoft products
+
+## Stack
+
+TypeScript · Svelte · SvelteKit · Cloudflare · PostgreSQL · Docker
+
+## Links
+
+- Website: https://zalosoft.com
