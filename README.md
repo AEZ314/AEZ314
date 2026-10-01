@@ -1,6 +1,6 @@
 # Efe Zaladin
 
-Founder & CEO at ZaloSoft™.
+Founder & CEO at ZaloSoft™
 
 Building developer infrastructure and software products.
 
